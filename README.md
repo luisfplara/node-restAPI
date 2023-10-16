@@ -3,7 +3,7 @@ Node --version
 
 API adress: http://3.144.199.220:5050/
 
-# SAFII API endpoints 
+# NODE REST API endpoints 
 
 ## Auth
 Used to authenticate users, get access token and refresh token. 
