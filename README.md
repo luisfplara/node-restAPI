@@ -1,8 +1,6 @@
 Node --version
     18.17.0
 
-API adress: http://3.144.199.220:5050/
-
 # NODE REST API endpoints 
 
 ## Auth
